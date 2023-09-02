@@ -5,7 +5,7 @@ public class MenuItem {
     private String description;
     private String category;
     private boolean isNew;
-
+//is new or not
     public MenuItem(double p, String d, String c, boolean iN) {
         this.price = p;
         this.description = d;
